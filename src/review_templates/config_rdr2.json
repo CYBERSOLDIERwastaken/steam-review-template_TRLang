@@ -5,12 +5,12 @@
             "title": "Graphics",
             "type": "radio",
             "options": [
-                "You forget what reality is",
-                "Beautiful",
-                "Good",
-                "Decent",
-                "Bad",
-                "Don‘t look too long at it",
+                "Gerçekçekliği unutturur",
+                "Çok güzel",
+                "Güzel",
+                "Kötü değil",
+                "Kötü",
+                "Çok uzun süre bakma",
                 "MS-DOS"
             ]
         },
@@ -18,57 +18,57 @@
             "title": "Gameplay",
             "type": "radio",
             "options": [
-                "Very good",
-                "Good",
-                "It's just gameplay",
+                "Çok güzel",
+                "İyi",
+                "Sadece gameplay işte",
                 "Mehh",
-                "Watch paint dry instead",
-                "Just don't"
+                "Kötü",
+                "Onun yerine inşaat izle"
             ]
         },
         {
             "title": "Audio",
             "type": "radio",
             "options": [
-                "Eargasm",
-                "Very good",
-                "Good",
-                "Not too bad",
-                "Bad",
-                "I'm now deaf"
+                "Kulak pası attırır",
+                "Çok iyi",
+                "İyi",
+                "Kötü değil",
+                "Kötü",
+                "Sağır olursun"
             ]
         },
         {
             "title": "Audience",
             "type": "check",
             "options": [
-                "Kids",
-                "Teens",
-                "Adults",
-                "Grandma"
+                "Çocuklar",
+                "Gençler",
+                "Yetişkinler",
+                "Babanne"
             ]
         },
         {
             "title": "PC Requirements",
             "type": "radio",
             "options": [
-                "Check if you can run paint",
-                "Potato",
-                "Decent",
-                "Fast",
-                "Rich boi",
-                "Ask NASA if they have a spare computer"
+                "Bilgisayarın varmı",
+                "Patates",
+                "Ortalama",
+                "Hızlı",
+                "Zenginsen oynarsın",
+                "Nasa'dan bir bilgisayar istemelisin"
             ]
         },
         {
             "title": "Difficulty",
             "type": "radio",
             "options": [
-                "Just press 'W'",
-                "Easy",
-                "Easy to learn / Hard to master",
-                "Significant brain usage",
-                "Difficult",
+                "Çocuk oyuncağı",
+                "kolay",
+                "Öğrenmesi kolay/Ustalaşması zor",
+                "Epey beyin kullanımı gerek",
+                "Zor",
                 "Dark Souls"
             ]
         },
@@ -76,24 +76,24 @@
             "title": "Grind",
             "type": "radio",
             "options": [
-                "Nothing to grind",
-                "Only if u care about leaderboards/ranks",
-                "Isn't necessary to progress",
-                "Average grind level",
-                "Too much grind",
-                "You'll need a second life for grinding"
+                "Geliştirilecek hiçbirşey yok",
+                "Sadece rankları önemsiyorsan",
+                "İlerlemek için gerekli",
+                "Ortalamanın üstünde",
+                "Çok fazla",
+                "Gelişmek için Babannenin emekli maaşı lazım"
             ]
         },
         {
             "title": "Story",
             "type": "radio",
             "options": [
-                "No Story",
-                "Some lore",
-                "Average",
-                "Good",
-                "Lovely",
-                "It'll replace your life"
+                "Hikaye yok",
+                "Birazcık",
+                "Ortalama",
+                "Güzel",
+                "Muhteşem",
+                "Kendi hayatından daha güzel"
             ]
         },
         {
