@@ -2,7 +2,7 @@
     "name": "Red Dead Redemption 2",
     "categories": [
         {
-            "title": "Graphics",
+            "title": "Grafikler",
             "type": "radio",
             "options": [
                 "Gerçekçekliği unutturur",
@@ -27,7 +27,7 @@
             ]
         },
         {
-            "title": "Audio",
+            "title": "Sesler",
             "type": "radio",
             "options": [
                 "Kulak pası attırır",
@@ -39,7 +39,7 @@
             ]
         },
         {
-            "title": "Audience",
+            "title": "Kitle",
             "type": "check",
             "options": [
                 "Çocuklar",
@@ -49,7 +49,7 @@
             ]
         },
         {
-            "title": "PC Requirements",
+            "title": "Pc özellikleri",
             "type": "radio",
             "options": [
                 "Bilgisayarın varmı",
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "title": "Difficulty",
+            "title": "Zorluk",
             "type": "radio",
             "options": [
                 "Çocuk oyuncağı",
@@ -85,7 +85,7 @@
             ]
         },
         {
-            "title": "Story",
+            "title": "Hikaye",
             "type": "radio",
             "options": [
                 "Hikaye yok",
@@ -97,37 +97,37 @@
             ]
         },
         {
-            "title": "Game Time",
+            "title": "Oyun süresi",
             "type": "radio",
             "options": [
-                "Long enough for a cup of coffee",
-                "Short",
-                "Average",
-                "Long",
-                "To infinity and beyond"
+                "Bir çay içecek kadar kısa",
+                "Kısa",
+                "Ortalama",
+                "Uzun",
+                "Sonsuzluk ve ötesine!"
             ]
         },
         {
-            "title": "Price",
+            "title": "Fiyat",
             "type": "radio",
             "options": [
-                "It's free!",
-                "Worth the price",
-                "If it's on sale",
-                "If u have some spare money left",
-                "Not recommended",
-                "You could also just burn your money"
+                "Bedava!",
+                "Parasını hakediyor",
+                "İndirimde",
+                "Biraz pahalı",
+                "Baya pahalı",
+                "Para yaksan aynı"
             ]
         },
         {
             "title": "Bugs",
             "type": "radio",
             "options": [
-                "Never heard of",
-                "Minor bugs",
-                "Can get annoying",
+                "Hiç yok",
+                "Küçük hatalar var",
+                "Sinir bozabilir",
                 "ARK: Survival Evolved",
-                "The game itself is a big terrarium for bugs"
+                "Buglardan zaman kalırsa arada oyun oynanıyor"
             ]
         },
         {
